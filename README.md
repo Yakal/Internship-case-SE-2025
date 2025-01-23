@@ -24,7 +24,7 @@ Your task is to analyze the datasets provided and extract actionable insights th
 
 ### Task 1: Interactive Dashboard Application
 
-Develop an interactive dashboard application that visualizes and analyzes the provided datasets to extract meaningful insights. The dashboard should deliver a comprehensive overview of the data, including key aspects such as sales, products, customers, and country-specific metrics. To make the dashboard effective, process the data to ensure accuracy, consistency, and relevance, and use it to create <u><strong><em>insightful visualizations such as charts, graphs, and plots.</em></strong></u> These visuals will form the core components of the dashboard, enabling users to easily identify trends, patterns, and actionable insights. The application should be user-friendly and include interactive features such as filters (e.g., date, country, product type, and customer type) to allow users to explore the data from different perspectives. The final dashboard should be designed to assist managers and team members in making informed, data-driven decisions.
+Develop an interactive dashboard application that visualizes and analyzes the provided datasets to extract meaningful insights. The dashboard should deliver a comprehensive overview of the data, including key aspects such as sales, products, customers, and country-specific metrics. To make the dashboard effective, process the data to ensure accuracy, consistency, and relevance, and use it to create <ins>***insightful visualizations such as charts, graphs, and plots.***</ins> These visuals will form the core components of the dashboard, enabling users to easily identify trends, patterns, and actionable insights. The application should be user-friendly and include interactive features such as filters (e.g., date, country, product type, and customer type) to allow users to explore the data from different perspectives. The final dashboard should be designed to assist managers and team members in making informed, data-driven decisions.
 
 ### Task 2: Cloud Deployment Architecture (Presentation)
 
@@ -44,7 +44,7 @@ Highlight your creative approach to integrating LLMs, including model selection,
 ### Considerations
 - There is no single "correct" solution; we are looking for your unique analytical approach.
 - Your ability to derive business insights from the analysis is crucial.
-- Presentation <u><strong><em>will be 25 minutes, followed by a 10-minute Q&A session.</em></strong></u>
+- Presentation <ins>***will be 25 minutes, followed by a 10-minute Q&A session.***</ins>
 - The recommended structure is 15 minutes for Task 1, 5 minutes for Task 2, and 5 minutes for Task 3.
 - Feel free to use any presentation software you are comfortable with.
 
