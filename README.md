@@ -12,7 +12,7 @@ Welcome to our Case Study. You've made it to the final phase of our selection pr
 
 ## Submission Instructions
 
-Please submit your work by sharing your interactive dashboard application URL or HTML file, along with the GitHub repository where your code is hosted. Make sure to add the following users to your repository: @Yakal. 
+Please submit your work by sharing your interactive dashboard application URL, along with the GitHub repository where your code is hosted. Make sure to add the following users to your repository: @Yakal. 
 
 ## Context
 
