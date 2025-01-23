@@ -24,7 +24,7 @@ Your task is to analyze the datasets provided and extract actionable insights th
 
 ### Task 1: Interactive Dashboard Application
 
-Develop an interactive dashboard application that visualizes and analyzes the provided datasets to extract meaningful insights. The dashboard should deliver a comprehensive overview of the data, including key aspects such as sales, products, customers, and country-specific metrics. To make the dashboard effective, process the data to ensure accuracy, consistency, and relevance, and use it to create insightful visualizations such as charts, graphs, and plots. These visuals will form the core components of the dashboard, enabling users to easily identify trends, patterns, and actionable insights. The application should be user-friendly and include interactive features such as filters (e.g., date, country, product type, and customer type) to allow users to explore the data from different perspectives. The final dashboard should be designed to assist managers and team members in making informed, data-driven decisions.
+Develop an interactive dashboard application that visualizes and analyzes the provided datasets to extract meaningful insights. The dashboard should deliver a comprehensive overview of the data, including key aspects such as sales, products, customers, and country-specific metrics. To make the dashboard effective, process the data to ensure accuracy, consistency, and relevance, and use it to create **_insightful visualizations such as charts, graphs, and plots._** These visuals will form the core components of the dashboard, enabling users to easily identify trends, patterns, and actionable insights. The application should be user-friendly and include interactive features such as filters (e.g., date, country, product type, and customer type) to allow users to explore the data from different perspectives. The final dashboard should be designed to assist managers and team members in making informed, data-driven decisions.
 
 ### Task 2: Cloud Deployment Architecture (Prensentation)
 
@@ -40,17 +40,17 @@ Your task is to conceptualize how this functionality could be implemented. Consi
 
 Highlight your creative approach to integrating LLMs, including model selection, handling ambiguous queries, and addressing potential limitations. You are not expected to build a working system but to present a well-thought-out conceptual design and workflow for implementing this feature.
 
-Prepare a 15-20 minutes presentation of Task 1 and 5~10 minutes for Task 2 & 3.
-
-Feel free to use any presentation software you are comfortable with.
 
 ### Considerations
 - There is no single "correct" solution; we are looking for your unique analytical approach.
 - Your ability to derive business insights from the analysis is crucial.
+- Presentation **_will be 25 minutes, followed by a 10-minute Q&A session._**
+- The recommended structure is 15 minutes for Task 1, 5 minutes for Task 2, and 5 minutes for Task 3.
+- Feel free to use any presentation software you are comfortable with.
 
 ## Dataset Descriptions (Metadata)
 
-Below are descriptions of the datasets you will be working with:
+Below are descriptions for the datasets you will be working with:
 
 ### Orders Table (Orders.csv)
 
