@@ -8,7 +8,7 @@ Welcome to our Case Study. You've made it to the final phase of our selection pr
 
 **Problem Domain:** E-commerce sales analytics & interactive dashboard application
 
-**Submission Deadline:** 27th January 2025 at 5:00 PM
+**Submission Deadline:** 27th January 2025 at 4:00 PM
 
 ## Submission Instructions
 
@@ -24,15 +24,15 @@ Your task is to analyze the datasets provided and extract actionable insights th
 
 ### Task 1: Interactive Dashboard Application
 
-Develop an interactive dashboard application that visualizes and analyzes the provided datasets to extract meaningful insights. The dashboard should deliver a comprehensive overview of the data, including key aspects such as sales, products, customers, and country-specific metrics. To make the dashboard effective, process the data to ensure accuracy, consistency, and relevance, and use it to create **_insightful visualizations such as charts, graphs, and plots._** These visuals will form the core components of the dashboard, enabling users to easily identify trends, patterns, and actionable insights. The application should be user-friendly and include interactive features such as filters (e.g., date, country, product type, and customer type) to allow users to explore the data from different perspectives. The final dashboard should be designed to assist managers and team members in making informed, data-driven decisions.
+Develop an interactive dashboard application that visualizes and analyzes the provided datasets to extract meaningful insights. The dashboard should deliver a comprehensive overview of the data, including key aspects such as sales, products, customers, and country-specific metrics. To make the dashboard effective, process the data to ensure accuracy, consistency, and relevance, and use it to create <u><strong><em>insightful visualizations such as charts, graphs, and plots.</em></strong></u> These visuals will form the core components of the dashboard, enabling users to easily identify trends, patterns, and actionable insights. The application should be user-friendly and include interactive features such as filters (e.g., date, country, product type, and customer type) to allow users to explore the data from different perspectives. The final dashboard should be designed to assist managers and team members in making informed, data-driven decisions.
 
-### Task 2: Cloud Deployment Architecture (Prensentation)
+### Task 2: Cloud Deployment Architecture (Presentation)
 
 Imagine you are working for a large company with many users and large amounts of data as a software engineer. Conceptualize how you would deploy the dashboard created in Task 1 on the cloud. There is no restriction on using any specific cloud platform (e.g., AWS, Azure, Google Cloud). Present a conceptual architecture design for setting up and deploying the dashboard. Highlight your creative approach and elaborate on the steps involved in the deployment process. You are not expected to deploy the real case, but explain how you would do it in a conceptual way.
 
 #### Consideration Task 2: what potential difficulties might you encounter when deploying the dashoboard on the cloud, and how would you tackle them?
 
-### Task 3: Natural Language Integration for Dashboard Interaction (Prensentation)
+### Task 3: Natural Language Integration for Dashboard Interaction (Presentation)
 
 Imagine enhancing the dashboard from Task 1 by enabling it to be controlled through natural language input instead of manually selecting filters like date, country, product type, or customer type. Envision a system where users can input queries in plain language (e.g., "Show sales trends for technology products in the US last quarter"), and the program processes the input, extracts the intent, and dynamically updates the dashboard with the relevant data and visualizations.
 
@@ -44,7 +44,7 @@ Highlight your creative approach to integrating LLMs, including model selection,
 ### Considerations
 - There is no single "correct" solution; we are looking for your unique analytical approach.
 - Your ability to derive business insights from the analysis is crucial.
-- Presentation **_**__will be 25 minutes, followed by a 10-minute Q&A session.__**_**
+- Presentation <u><strong><em>will be 25 minutes, followed by a 10-minute Q&A session.</em></strong></u>
 - The recommended structure is 15 minutes for Task 1, 5 minutes for Task 2, and 5 minutes for Task 3.
 - Feel free to use any presentation software you are comfortable with.
 
