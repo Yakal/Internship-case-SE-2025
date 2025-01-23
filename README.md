@@ -44,7 +44,7 @@ Highlight your creative approach to integrating LLMs, including model selection,
 ### Considerations
 - There is no single "correct" solution; we are looking for your unique analytical approach.
 - Your ability to derive business insights from the analysis is crucial.
-- Presentation **_will be 25 minutes, followed by a 10-minute Q&A session._**
+- Presentation **_**__will be 25 minutes, followed by a 10-minute Q&A session.__**_**
 - The recommended structure is 15 minutes for Task 1, 5 minutes for Task 2, and 5 minutes for Task 3.
 - Feel free to use any presentation software you are comfortable with.
 
